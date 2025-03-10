@@ -1,0 +1,7 @@
+sign_in_button_homepage: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+sign_in_button_signin: '//android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]'
+username_input: '//android.widget.EditText[@resource-id="com.example.myapplication:id/username"]'
+password_input: '//android.widget.EditText[@resource-id="com.example.myapplication:id/password"]'
+sign_out_button: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+pop_up_invalid_username_password: '//android.widget.Toast[@text="Invalid username/password"]'
+sign_in_page: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout'
